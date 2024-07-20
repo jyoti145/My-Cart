@@ -30,7 +30,7 @@ This project is under the MIT license.
 
 ### Useful links
 
-* GitHub repository: 
+* GitHub repository:https://github.com/jyoti145/My-Cart/tree/main 
 * Live application: [https://friedshop.vercel.app/](https://friedshop.vercel.app/)
 * ReactJS documentation: [https://react.dev/](https://react.dev/)
 * Redux tutorial: [https://redux.js.org/tutorials/fundamentals/part-1-overview](https://redux.js.org/tutorials/fundamentals/part-1-overview)
