@@ -2,7 +2,7 @@
 
 ### Description
 
-This project is a front-end web application for a fictional fast-food restaurant called Friedshop, developed with ReactJS. It allows users to browse the menu, place orders, and track their status. The application is live at [https://friedshop.vercel.app/](https://friedshop.vercel.app/).
+This project is a front-end web application for a fictional fast-food restaurant called Friedshop, developed with ReactJS. It allows users to browse the menu, place orders, and track their status. The application is live at: (https://my-cart-one.vercel.app/).
 
 ### Features
 
@@ -31,7 +31,7 @@ This project is under the MIT license.
 ### Useful links
 
 * GitHub repository:https://github.com/jyoti145/My-Cart/tree/main 
-* Live application: [https://friedshop.vercel.app/](https://friedshop.vercel.app/)
+* Live application:(https://my-cart-one.vercel.app/).
 * ReactJS documentation: [https://react.dev/](https://react.dev/)
 * Redux tutorial: [https://redux.js.org/tutorials/fundamentals/part-1-overview](https://redux.js.org/tutorials/fundamentals/part-1-overview)
 
