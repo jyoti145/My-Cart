@@ -1,4 +1,4 @@
-# FriedShop : A e-commerce website built with ReactJS
+# My-Cart : A e-commerce website built with ReactJS
 
 ### Description
 
@@ -23,11 +23,6 @@ This project is a front-end web application for a fictional fast-food restaurant
 
 This project is under the MIT license.
 
-### Contributors
-
-- [KIDJE E. Fortunatus - v1p3r75](https://github.com/v1p3r75)
-
-
 ### Notes
 
 * This project is still under development.
@@ -35,7 +30,7 @@ This project is under the MIT license.
 
 ### Useful links
 
-* GitHub repository: [https://github.com/v1p3r75/friedshop-front-react](https://github.com/v1p3r75/friedshop-front-react)
+* GitHub repository: 
 * Live application: [https://friedshop.vercel.app/](https://friedshop.vercel.app/)
 * ReactJS documentation: [https://react.dev/](https://react.dev/)
 * Redux tutorial: [https://redux.js.org/tutorials/fundamentals/part-1-overview](https://redux.js.org/tutorials/fundamentals/part-1-overview)
